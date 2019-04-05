@@ -1,1 +1,4 @@
 application-test.yml
+.classpath
+.settings/
+target/
